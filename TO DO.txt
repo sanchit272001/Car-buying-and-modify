@@ -1,0 +1,7 @@
+shop
+	confirm button "buy now"
+	fixed price, shown after confirmation
+	"you will be redirected" notification
+
+Correct the FAQs
+re-write ABOUT US as an entrepreneurship
